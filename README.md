@@ -1,6 +1,6 @@
 ## Project Title: Analyzing Terrorism in Somalia
 
-![](Imgades\Somalia-statement-19-Oct-17.jpg)
+![](https://github.com/awcaliyare/terrorism_in_somalia/blob/main/Imgades/Somalia-statement-19-Oct-17.jpg)
 
 ### **1. Introduction**
 Somalia has been grappling with a troubling rise in terrorist activities in recent years, largely fueled by the extremist group al-Shabaab. The nation’s complicated socio-political environment, shaped by decades of civil strife, instability, and weak governance, has allowed for an alarming increase in violence and extremism. It’s crucial to understand the patterns, causes, and impacts of terrorism in Somalia if we are to devise effective strategies to counter this growing threat.
