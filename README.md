@@ -1,6 +1,5 @@
 # Analysis of Terrorism Attacks in Somalia from 1975 to 2020
 
-
 ![14 Oct Zoobe Attack](images/zoobe.jpg)
 
 ## Project Overview
@@ -15,6 +14,9 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - Analyzing the types of attacks and their geographical distribution.
 - Understanding the casualties and impacts associated with various attack types.
 - Providing actionable recommendations to enhance counterterrorism strategies based on the findings.
+
+
+![14 Oct Zoobe Attack](images/zoobe.jpg)
 
 ## Problem Statement
 
