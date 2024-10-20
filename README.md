@@ -1,6 +1,6 @@
 # Analysis of Terrorism Attacks in Somalia from 1975 to 2020
 
-![14 Oct Zoobe Attack](images/zoobe.jpg)
+![](images/_98326294_hi042374868.jpg)
 
 ## Project Overview
 
@@ -16,11 +16,11 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - Providing actionable recommendations to enhance counterterrorism strategies based on the findings.
 
 
-![14 Oct Zoobe Attack](images/zoobe.jpg)
-
 ## Problem Statement
 
 Over the past two decades, Somalia has witnessed a marked increase in terrorist activities, predominantly attributed to militant groups like Al-Shabaab. This persistent violence targets both military personnel and civilians, complicating the security landscape. The absence of a coordinated and effective counterterrorism strategy, coupled with a high frequency of attacks and considerable casualties, presents a multifaceted challenge for the Somali government and its international partners. A deeper understanding of attack patterns and trends is essential for formulating effective responses to alleviate the impacts of terrorism on society and development.
+
+![14 Oct Zoobe Attack](images/zoobe.jpg)
 
 ## Background
 
@@ -29,7 +29,7 @@ The surge of terrorism in Somalia is rooted in the collapse of the central gover
 The geographical concentration of attacks, especially in urban centers like Mogadishu, exacerbates security challenges, necessitating data-driven counterterrorism strategies. By examining historical data on terrorist incidents—including weapon types, attack methods, and target profiles—this project seeks to illuminate the underlying factors sustaining the threat of terrorism in Somalia.
 
 
-### **Key Insights from the Analysis of Terrorism in Somalia**
+### **Key Insights and Findings from the Analysis**
 
 #### **1. Rise in Terrorist Attacks (1975–2020)**
 ![](images/yearly_trends.png)
@@ -205,6 +205,8 @@ The geographical concentration of attacks, especially in urban centers like Moga
 
 **Recommendation:** Improving security protocols at hotels, including surveillance and emergency response training, can help protect guests and deter potential attacks. 
 
+
+![](images/1672839031430.jpg)
 
 
 ### Conclusion
