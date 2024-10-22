@@ -63,7 +63,7 @@ The geographical concentration of attacks, especially in urban centers like Moga
 
 #### **4. Regional Impact: Banaadir Leads in Attacks**
 ![](images/region_attacks.png)
-- **Banaadir region:** The capital region of **Banaadir**, which includes Mogadishu, experiences the majority of attacks—**over 1,900 incidents**. Other regions, like **Shabeellaha Hoose** and **Awdal**, face fewer attacks, with Awdal seeing only around **20 incidents**.
+- **Banaadir region:** The capital region of **Banaadir**, which includes Mogadishu, experiences the majority of attacks—**over 1,900 incidents**. Other regions, like **Togdheer**, **Wuqooyi Galbeed**, and **Awdal**, face fewer attacks, with Awdal seeing only around **20 incidents**.
 
 **Reason:** Mogadishu is not only the political and economic heart of Somalia but also the seat of government and international presence, making it a prime target for insurgent groups like Al-Shabaab. The contrast between urban hubs and rural or peripheral regions reflects insurgent priorities.
 
