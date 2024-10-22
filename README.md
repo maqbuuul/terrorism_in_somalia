@@ -54,7 +54,7 @@ The geographical concentration of attacks, especially in urban centers like Moga
 
 #### **3. Weekly Attack Patterns**
 ![](images/weekly_trend.png)
-- **Tuesdays and Sundays are the most dangerous:** The highest number of terrorist attacks happen on **Tuesdays** and **Sundays**, while **Friday**—the day of Islamic prayers—sees the fewest attacks.
+- **Tuesdays and Sundays are the most dangerous:** The highest number of terrorist attacks happen on **Tuesdays** and **Sundays**, while **Friday**—the day which is the Islamic weekend sees the fewest attacks.
 
 **Reason:** Extremist groups may choose Tuesdays and Sundays for tactical reasons, such as catching security forces off-guard at the beginning of the work week or preparing attacks over the weekend. Fridays tend to have fewer incidents because of Friday prayers.
 
